@@ -1,3 +1,3 @@
 bob
 ===
-install github
+$ install github
